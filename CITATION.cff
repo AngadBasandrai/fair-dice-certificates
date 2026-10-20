@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: Please cite this version when using the certificates and verification code.
+type: software
+title: Certificates and verification code for four-player fair-dice games
+authors:
+  - family-names: Basandrai
+    given-names: Angad
+version: 1.0.0
+date-released: 2026-10-21
+license: MIT
+repository-code: https://github.com/AngadBasandrai/fair-dice-certificates
+url: https://github.com/AngadBasandrai/fair-dice-certificates/releases/tag/v1.0.0
